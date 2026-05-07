@@ -58,3 +58,8 @@ Progressive hands-on sessions implement ML fairness and interpretability techniq
 ## Business Relevance
 
 Essential for regulated ML (finance, hiring, healthcare). Reduces legal risks, builds trust. EU AI Act compliance via audits. [carpentries-incubator.github](https://carpentries-incubator.github.io/fair-explainable-ml/3-model-eval-and-fairness.html)
+
+## Author
+
+Divyam Narang
+MBA Finance Student | AI in Finance Practitioner
